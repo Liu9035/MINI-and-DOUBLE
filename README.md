@@ -1,5 +1,5 @@
 # MINI-and-DOUBLE
-This repository contains the code used to obtain some of our results in our paper "On the Security of LOL-MINI and LOL-DOUBLE against Correlation Attacks".
+This repository contains the code used to obtain some of the results in our paper "On the Security of LOL-MINI and LOL-DOUBLE against Correlation Attacks".
 
 In MINI
 - `1 MINI (search for active sboxes)` contains the model of  searching the linear approximation trails by their active sbox (.py)
